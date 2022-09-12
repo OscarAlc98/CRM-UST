@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'https://bedu.org/rest:80/venta/1' -i -X PUT \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"ventaId":1,"monto":164.4,"productos":null,"cliente":null,"fechaCreacion":null}'
+----

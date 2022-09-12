@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+Number+`
+|El identificador del nuevo cliente
+
+|`+nombre+`
+|`+String+`
+|El nombre del cliente
+
+|`+direccion+`
+|`+String+`
+|La dirección del cliente
+
+|`+correoContacto+`
+|`+String+`
+|La dirección de correo electrónico de contacto
+
+|`+numeroEmpleados+`
+|`+String+`
+|El número de personas que trabajan en las oficinas e cliente
+
+|===

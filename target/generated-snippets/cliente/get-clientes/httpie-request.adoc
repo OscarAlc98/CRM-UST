@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ echo 'application/json' | http GET 'https://ust.org/rest:80/cliente'
+----

@@ -1,0 +1,8 @@
+.+/venta/{ventaId}+
+|===
+|Parameter|Description
+
+|`+ventaId+`
+|Identificador de la venta
+
+|===

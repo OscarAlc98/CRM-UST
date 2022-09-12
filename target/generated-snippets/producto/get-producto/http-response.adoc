@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 127
+
+{"id":1,"nombre":"productoPrueba","precio":1.0,"categoria":"categoriaPrueba","numeroRegistro":"1","fechaCreacion":"2022-09-12"}
+----

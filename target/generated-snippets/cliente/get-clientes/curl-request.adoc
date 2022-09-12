@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://ust.org/rest:80/cliente' -i -X GET \
+    -d 'application/json'
+----

@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://bedu.org/rest:80/etapa/1' -i -X GET \
+    -d 'application/json'
+----

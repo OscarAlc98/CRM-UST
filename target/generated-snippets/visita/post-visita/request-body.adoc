@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":1,"cliente":null,"fechaProgramada":null,"direccion":"Av. Siempre Viva","proposito":"Carnita asada y bebidas","vendedor":"Vendedor 1"}
+----

@@ -1,0 +1,8 @@
+.+/etapa/{etapaId}+
+|===
+|Parameter|Description
+
+|`+etapaId+`
+|Identificador de la etapa
+
+|===

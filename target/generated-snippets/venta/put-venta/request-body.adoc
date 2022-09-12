@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"ventaId":1,"monto":164.4,"productos":null,"cliente":null,"fechaCreacion":null}
+----

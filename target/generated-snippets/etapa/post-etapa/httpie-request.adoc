@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"etapaId":0,"nombre":"nombre","orden":1}' | http POST 'https://bedu.org/rest:80/etapa' \
+    'Content-Type:application/json;charset=UTF-8'
+----

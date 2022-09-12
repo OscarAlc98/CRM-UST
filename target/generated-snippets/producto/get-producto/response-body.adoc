@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":1,"nombre":"productoPrueba","precio":1.0,"categoria":"categoriaPrueba","numeroRegistro":"1","fechaCreacion":"2022-09-12"}
+----

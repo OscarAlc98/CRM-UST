@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"id":1,"nombre":"Nombre 1","correoContacto":"contacto@cliente1.com","numeroEmpleados":"10","direccion":"Direccion 1"},{"id":2,"nombre":"Nombre 2","correoContacto":"contacto@cliente2.com","numeroEmpleados":"10","direccion":"Direccion 2"},{"id":3,"nombre":"Nombre 3","correoContacto":"contacto@cliente3.com","numeroEmpleados":"10","direccion":"Direccion 3"}]
+----

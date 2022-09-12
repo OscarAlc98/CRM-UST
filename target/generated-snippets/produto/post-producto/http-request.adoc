@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+POST /rest:80/producto HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 117
+Host: bedu.org
+
+{"id":1,"nombre":"nombre","precio":1.0,"categoria":"categoria1","numeroRegistro":"123-231-1123","fechaCreacion":null}
+----

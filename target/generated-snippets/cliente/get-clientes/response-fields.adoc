@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`+[].id+`
+|`+Number+`
+|identificador del cliente
+
+|`+[].nombre+`
+|`+String+`
+|nombre del cliente
+
+|`+[].correoContacto+`
+|`+String+`
+|correo de contacto del cliente
+
+|`+[].numeroEmpleados+`
+|`+String+`
+|número de trabajadores del cliente
+
+|`+[].direccion+`
+|`+String+`
+|domicilio del cliente
+
+|===

@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ echo 'application/json' | http DELETE 'https://bedu.org/rest:80/etapa/1'
+----

@@ -1,0 +1,7 @@
+|===
+|Name|Description
+
+|`+Location+`
+|La ubicación del recurso (su identificador generado
+
+|===

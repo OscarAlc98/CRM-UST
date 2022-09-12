@@ -1,0 +1,8 @@
+.+/visita/{id}+
+|===
+|Parameter|Description
+
+|`+id+`
+|Identificador de la visita
+
+|===

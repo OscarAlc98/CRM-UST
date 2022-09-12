@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"etapaId":1,"nombre":"nombre","orden":1}' | http PUT 'https://bedu.org/rest:80/etapa/1' \
+    'Content-Type:application/json;charset=UTF-8'
+----

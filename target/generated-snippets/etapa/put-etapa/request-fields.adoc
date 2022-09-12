@@ -1,0 +1,16 @@
+|===
+|Path|Type|Description
+
+|`+etapaId+`
+|`+Number+`
+|identificador de la etapa
+
+|`+nombre+`
+|`+String+`
+|nombre de la etapa
+
+|`+orden+`
+|`+Number+`
+|orden de la etapa
+
+|===

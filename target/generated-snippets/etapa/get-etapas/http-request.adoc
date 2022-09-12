@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+GET /rest:80/producto HTTP/1.1
+Content-Length: 16
+Host: bedu.org
+
+application/json
+----

@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"ventaId":0,"monto":146.2,"productos":null,"cliente":null,"fechaCreacion":null}' | http POST 'https://bedu.org/rest:80/venta' \
+    'Content-Type:application/json;charset=UTF-8'
+----

@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":1,"nombre":"Nombre","correoContacto":"contacto@cliente.com","numeroEmpleados":"10","direccion":"Direccion"}
+----

@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"id":1,"nombre":"Nombre","correoContacto":"contacto@cliente.com","numeroEmpleados":"10","direccion":"Direccion"}' | http PUT 'https://ust.org/rest:80/cliente/1' \
+    'Content-Type:application/json;charset=UTF-8'
+----

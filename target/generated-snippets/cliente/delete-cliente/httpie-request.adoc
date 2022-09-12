@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ echo 'application/json' | http DELETE 'https://ust.org/rest:80/cliente/1'
+----

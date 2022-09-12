@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"id":1,"nombre":"nombre","precio":1.0,"categoria":"categoria1","numeroRegistro":"1","fechaCreacion":"2022-09-14"},{"id":2,"nombre":"nombre2","precio":2.0,"categoria":"categoria2","numeroRegistro":"2","fechaCreacion":"2022-09-17"},{"id":3,"nombre":"nombre3","precio":3.0,"categoria":"categoria3","numeroRegistro":"3","fechaCreacion":"2022-09-23"}]
+----

@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://bedu.org/rest:80/visita/1' -i -X DELETE \
+    -d 'application/json'
+----

@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+PUT /rest:80/cliente/1 HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 113
+Host: ust.org
+
+{"id":1,"nombre":"Nombre","correoContacto":"contacto@cliente.com","numeroEmpleados":"10","direccion":"Direccion"}
+----

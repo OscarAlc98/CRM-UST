@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`+[].id+`
+|`+Number+`
+|identificador del cliente
+
+|`+[].nombre+`
+|`+String+`
+|nombre del producto
+
+|`+[].categoria+`
+|`+String+`
+|categoria del producto
+
+|`+[].precio+`
+|`+Number+`
+|precio del producto
+
+|`+[].numeroRegistro+`
+|`+String+`
+|numero de registro
+
+|`+[].fechaCreacion+`
+|`+String+`
+|fecha de creacion
+
+|===

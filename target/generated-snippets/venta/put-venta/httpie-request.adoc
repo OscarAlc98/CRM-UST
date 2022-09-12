@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"ventaId":1,"monto":164.4,"productos":null,"cliente":null,"fechaCreacion":null}' | http PUT 'https://bedu.org/rest:80/venta/1' \
+    'Content-Type:application/json;charset=UTF-8'
+----

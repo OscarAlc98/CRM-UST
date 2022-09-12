@@ -1,0 +1,8 @@
+.+/producto/{productoId}+
+|===
+|Parameter|Description
+
+|`+productoId+`
+|Identificador del producto
+
+|===

@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'https://ust.org/rest:80/cliente/1' -i -X PUT \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"id":1,"nombre":"Nombre","correoContacto":"contacto@cliente.com","numeroEmpleados":"10","direccion":"Direccion"}'
+----

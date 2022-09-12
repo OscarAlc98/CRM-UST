@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+PUT /rest:80/visita/1 HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 139
+Host: bedu.org
+
+{"id":1,"cliente":null,"fechaProgramada":null,"direccion":"Av. Siempre Viva","proposito":"Carnita asada y bebidas","vendedor":"Vendedor 1"}
+----

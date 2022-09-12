@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`+ventaId+`
+|`+Number+`
+|identificador de la venta
+
+|`+monto+`
+|`+Number+`
+|costo de la venta
+
+|`+productos+`
+|`+Null+`
+|productos de la venta
+
+|`+cliente+`
+|`+Null+`
+|cliente que hizo la venta
+
+|`+fechaCreacion+`
+|`+Null+`
+|fecha de la venta
+
+|===

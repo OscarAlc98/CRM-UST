@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`+[].id+`
+|`+Number+`
+|identificador de la visita
+
+|`+[].cliente+`
+|`+Null+`
+|cliente de la visita
+
+|`+[].direccion+`
+|`+String+`
+|direccion de la visita
+
+|`+[].proposito+`
+|`+String+`
+|proposito de la visita
+
+|`+[].vendedor+`
+|`+String+`
+|vendedor de la visita
+
+|`+[].fechaProgramada+`
+|`+Null+`
+|fecha de la visita
+
+|===

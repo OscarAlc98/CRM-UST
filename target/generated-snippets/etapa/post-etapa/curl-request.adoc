@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'https://bedu.org/rest:80/etapa' -i -X POST \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"etapaId":0,"nombre":"nombre","orden":1}'
+----

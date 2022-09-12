@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://ust.org/rest:80/cliente/1' -i -X DELETE \
+    -d 'application/json'
+----

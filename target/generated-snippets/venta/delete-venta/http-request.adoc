@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+DELETE /rest:80/venta/1 HTTP/1.1
+Content-Length: 16
+Host: bedu.org
+
+application/json
+----
